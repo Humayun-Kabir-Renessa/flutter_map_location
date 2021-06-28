@@ -11,7 +11,7 @@ showing current time
 
 `<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />`
     
-- then add your Google API key inside <application>
+- then add your Google API key inside `<application>`. You will find Google API key from [Google console](https://console.cloud.google.com/apis/credentials)
 
 `<meta-data android:name="com.google.android.geo.API_KEY" android:value="YOUR_API_KEY"/>`
     
