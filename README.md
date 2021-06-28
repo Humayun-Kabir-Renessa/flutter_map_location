@@ -1,5 +1,4 @@
-# map_location
-
+# Flutter Map & Location
 this will show current location in map, at the same time it will show address of current location in text. **Geocoding** is used to convert location latitude & longitude into address
 showing current time
 
